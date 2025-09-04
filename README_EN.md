@@ -1,7 +1,5 @@
 # KNN Algorithm Implementation
 
-[中文文档](README_CN.md) | [English Documentation](README_EN.md)
-
 A K-Nearest Neighbors (KNN) classification algorithm implementation based on scikit-learn, demonstrated using the Iris dataset.
 
 ## Project Overview
